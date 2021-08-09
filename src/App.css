@@ -4,8 +4,13 @@
   padding: 0;
 }
 
-h1 {
+.bla {
+  color: #00CF98;
+}
+
+.type {
   padding-top: 40px;
+  font-size:30px;
   background: #00CF98;
   background: -webkit-linear-gradient(to right, #00CF98 60%, #5D51CF 100%);
   background: -moz-linear-gradient(to right, #00CF98 60%, #5D51CF 100%);
@@ -13,6 +18,18 @@ h1 {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.S {
+  font-family: sans-serif;
+  font-weight:800;
+  font-size:40px;
+  text-align: center;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:100vh;
+  background:green;
 }
 
 nav {
