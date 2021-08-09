@@ -55,10 +55,6 @@ function App() {
             </a>
           </nav>
         </IconContext.Provider>
-        {/* <li><button><i className="btn fab fa-github-square"></i></button></li>
-            <li><i className="fab fa-linkedin"></i></li>
-            <li><i className="fab fa-twitter-square"></i></li>
-            <li><i className="fas fa-envelope-square"></i></li> */}
       </div>
     </div>
   );
