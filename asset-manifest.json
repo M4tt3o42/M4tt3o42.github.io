@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fullpistoladev/static/css/main.4fd7769f.chunk.css",
+    "main.js": "/fullpistoladev/static/js/main.bf64a703.chunk.js",
+    "main.js.map": "/fullpistoladev/static/js/main.bf64a703.chunk.js.map",
+    "runtime-main.js": "/fullpistoladev/static/js/runtime-main.708e6339.js",
+    "runtime-main.js.map": "/fullpistoladev/static/js/runtime-main.708e6339.js.map",
+    "static/js/2.854a0480.chunk.js": "/fullpistoladev/static/js/2.854a0480.chunk.js",
+    "static/js/2.854a0480.chunk.js.map": "/fullpistoladev/static/js/2.854a0480.chunk.js.map",
+    "index.html": "/fullpistoladev/index.html",
+    "static/css/main.4fd7769f.chunk.css.map": "/fullpistoladev/static/css/main.4fd7769f.chunk.css.map",
+    "static/js/2.854a0480.chunk.js.LICENSE.txt": "/fullpistoladev/static/js/2.854a0480.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.708e6339.js",
+    "static/js/2.854a0480.chunk.js",
+    "static/css/main.4fd7769f.chunk.css",
+    "static/js/main.bf64a703.chunk.js"
+  ]
+}
