@@ -29,7 +29,7 @@ function App() {
                   .typeString("My name is Mateus Henrique")
                   .pauseFor(1500)
                   .deleteAll()
-                  .typeString("I'm a Software Developer")
+                  .typeString("I'm a undergrad NLP research")
                   .pauseFor(1500)
                   .deleteAll()
                   .typeString("I'm a computer science student")
